@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niraj-rathod-0015
-- 👀 I’m interested in IoT Projects
-- 🌱 I’m currently learning CP
-- 💞️ I’m looking to collaborate on IoT Projects
+- 👀 I’m interested in iOS, IoT and Embadded Projects
+- 🌱 I’m currently learning iOS Development
+- 💞️ I’m looking to collaborate on Embadded, IoT and iOS Community Projects
 - 📫 How to reach me : email : niraj.rathod.0015@gmail.com
 
 <!---
